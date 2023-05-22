@@ -20,7 +20,7 @@
 | Test accuracy       |       0.821        |     0.855      |
 | Train ECE           |       0.031        |     0.030      |
 | Validation ECE      |       0.033        |     0.032      |
-| Test ECE            |       0.094        |     0,088      |
+| Test ECE            |       0.094        |     0.088      |
 
 ### (d) Discuss (2 points)
 
